@@ -15,7 +15,7 @@
   "Packages": {
     "P01": {
       "Package": "P01",
-      "Version": "2.5.1",
+      "Version": "2.5.12",
       "Source": "Repository",
       "Repository": "INHOUSE",
       "Requirements": [
