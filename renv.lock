@@ -27,7 +27,7 @@
       "Package": "P02",
       "Version": "2.5.2",
       "Source": "Repository",
-      "Repository": "DEV-REPO",
+      "Repository": "DEV-REPO1",
       "Requirements": [
         "R"
       ],
