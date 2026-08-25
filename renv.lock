@@ -1,0 +1,143 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "DEV-REPO",
+        "URL": "https://aegisrspm.akaws-r-alb.onecloudlabo.test.com/cran-snapshot-20251216/latest"
+      }, 
+      {
+        "Name": "INHOUSE",
+        "URL": "https://aegisrspm.aegis-web-dev.tcci-int.chugai-pharm.co.jp/aegis-R4.5.1-dev/__linux__/noble/latest"
+      }
+    ]
+  },
+  "Packages": {
+    "P01": {
+      "Package": "P01",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P02": {
+      "Package": "P02",
+      "Version": "2.5.2",
+      "Source": "Repository",
+      "Repository": "DEV-REPO",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P03": {
+      "Package": "P03",
+      "Version": "2.5.3",
+      "Source": "GitHub",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P04": {
+      "Package": "P04",
+      "Version": "2.5.4",
+      "Source": "Local",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P05": {
+      "Package": "P05",
+      "Version": "2.5.5",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P06": {
+      "Package": "P06",
+      "Version": "2.5.6",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P07": {
+      "Package": "P07",
+      "Version": "2.5.7",
+      "Source": "Repository",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P08": {
+      "Package": "P08",
+      "Version": "2.5.8",
+      "Source": "Repository",
+      "Repository": "DEV-REPO1",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P09": {
+      "Package": "P09",
+      "Version": "2.5.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P10": {
+      "Package": "P10",
+      "Version": "2.5.10",
+      "Source": "Repository",
+      "Repository": "https://aegisrspm.com",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P11": {
+      "Package": "P11",
+      "Version": "2.5.11",
+      "Source": "Repository",
+      "Repository": "https://1aegisrspm.com",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "P12": {
+      "Package": "P12",
+      "Version": "2.5.12",
+      "Source": "Repository",
+      "Repository": "https://aegisrspm2.com",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "renv": {
+      "Package": "renv",
+      "Version": "1.0.0",
+      "Source": "Repository",
+      "Repository": "https://renv.com",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    }
+  }
+}
