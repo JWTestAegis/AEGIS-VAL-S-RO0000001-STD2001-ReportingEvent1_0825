@@ -17,7 +17,7 @@
       "Package": "P01",
       "Version": "2.5.12",
       "Source": "Repository",
-      "Repository": "INHOUSE",
+      "Repository": "INHOUSE1",
       "Requirements": [
         "R"
       ],
